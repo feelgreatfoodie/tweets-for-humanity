@@ -1,10 +1,4 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
-
-import React, { Component } from 'react'
+import React, {Component} from 'react'
 import ButtonPlay from './src/components/button'
 import {
   Alert,
@@ -19,14 +13,8 @@ import _ from 'lodash'
 import SearchBar from './src/components/search_bar'
 import TweetDetail from './src/components/tweet_detail'
 import TweetList from './src/components/tweet_list'
+import TweetListItem from './src/components/tweet_list_item'
 import tweets from './sampleTweets.json'
-
-const instructions = Platform.select({
-  ios: 'Press Cmd+R to reload,\n' +
-    'Cmd+D or shake for dev menu',
-  android: 'Double tap R on your keyboard to reload,\n' +
-    'Shake or press menu button for dev menu',
-})
 
 type Props = {}
 
@@ -35,30 +23,45 @@ export default class App extends Component<Props> {
     super(props)
 
     this.state = {
-      tweets: [],
+      tweets: tweets.statuses,
       selectedTweet: null
     }
 
     this.tweetSearch('springtime')
   }
 
+
   tweetSearch(term) {
+    // this.setState({ tweets })
     return tweets
   }
 
   render() {
 
-    const tweetSearch = _.debounce(term => { this.tweetSearch(term) }, 300)
+    const tweetSearch = _.debounce(term => {
+      this.tweetSearch(term)
+    }, 300)
 
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to Tweets For Humanity!
-        </Text>
-        <Text style={styles.instructions}>
-          To get started, let's choose a topic
-        </Text>
-        <ButtonPlay />
+        <View>
+          <Text style={styles.welcome}>
+            Welcome to Tweets For Humanity!
+          </Text>
+          <Text style={styles.instructions}>
+            To get started, let's choose a topic
+          </Text>
+          <ButtonPlay />
+        </View>
+        <View>
+          {/* <SearchBar onSearchTermChange={tweetSearch} />
+            <TweetDetail tweet={this.state.selectedTweet} />
+            <TweetList
+              onTweetSelect={selectedTweet => this.setState({selectedTweet})}
+              tweets={this.state.tweets} /> */
+          }
+          <TweetListItem tweets={this.state.tweets}/>
+        </View>
       </View>
     )
   }
@@ -69,16 +72,16 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    // backgroundColor: '#c3c3c3'
   },
   welcome: {
     fontSize: 20,
     textAlign: 'center',
-    margin: 10,
+    marginTop: 200
   },
   instructions: {
     textAlign: 'center',
     color: '#333333',
-    marginBottom: 5,
-  },
+    marginBottom: 5
+  }
 })
