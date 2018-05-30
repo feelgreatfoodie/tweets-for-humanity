@@ -1,0 +1,2317 @@
+{
+  "search_metadata": {
+    "completed_in": 0.07,
+    "count": 15,
+    "max_id": 1001891998310240300,
+    "max_id_str": "1001891998310240256",
+    "next_results": "?max_id=1001889806559916031&q=spring%20time&include_entities=1",
+    "query": "spring+time",
+    "refresh_url": "?since_id=1001891998310240256&q=spring%20time&include_entities=1",
+    "since_id": 0,
+    "since_id_str": "0"
+  },
+  "statuses": [
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:24:01 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 835252426265481200,
+            "id_str": "835252426265481216",
+            "indices": [
+              3,
+              18
+            ],
+            "name": "Robert Macfarlane",
+            "screen_name": "RobGMacfarlane"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001891998310240300,
+      "id_str": "1001891998310240256",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 516,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed May 30 06:00:16 +0000 2018",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/1…",
+              "expanded_url": "https://twitter.com/i/web/status/1001704827473350656",
+              "indices": [
+                117,
+                140
+              ],
+              "url": "https://t.co/z7npYYARnp"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 1458,
+        "favorited": false,
+        "geo": null,
+        "id": 1001704827473350700,
+        "id_str": "1001704827473350656",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 516,
+        "retweeted": false,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Word(s) of the day: \"spring tide\" - tide occurring around the time of a full or new moon, when there is the greates… https://t.co/z7npYYARnp",
+        "truncated": true,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Fri Feb 24 22:17:51 +0000 2017",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Books (The Lost Words, The Old Ways, Landmarks, The Wild Places) Films (Mountain) Essays (Guardian, New Yorker) New book Underland underway. Fellow, Cambridge.",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "emma.cam.ac.uk/contact/fellow…",
+                  "expanded_url": "https://www.emma.cam.ac.uk/contact/fellows/?id=172",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/Cnw92b2jeI"
+                }
+              ]
+            }
+          },
+          "favourites_count": 32796,
+          "follow_request_sent": false,
+          "followers_count": 107516,
+          "following": false,
+          "friends_count": 1909,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 835252426265481200,
+          "id_str": "835252426265481216",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en-gb",
+          "listed_count": 1234,
+          "location": "The Anthropocene",
+          "name": "Robert Macfarlane",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/835252426265481216/1488117681",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/835849899006640129/-qwlW-0a_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/835849899006640129/-qwlW-0a_normal.jpg",
+          "profile_link_color": "91D2FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "RobGMacfarlane",
+          "statuses_count": 9991,
+          "time_zone": null,
+          "translator_type": "none",
+          "url": "https://t.co/Cnw92b2jeI",
+          "utc_offset": null,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "RT @RobGMacfarlane: Word(s) of the day: \"spring tide\" - tide occurring around the time of a full or new moon, when there is the greatest di…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 18 17:49:21 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 11286,
+        "follow_request_sent": false,
+        "followers_count": 285,
+        "following": false,
+        "friends_count": 1887,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4526972009,
+        "id_str": "4526972009",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Ohio",
+        "name": "Alexander Argead",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4526972009/1512980857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993534548372807680/g6FJzJg9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993534548372807680/g6FJzJg9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ArgeadAlexander",
+        "statuses_count": 1571,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:23:42 +0000 2018",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              16,
+              19
+            ],
+            "text": "Ad"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 200913899,
+            "id_str": "200913899",
+            "indices": [
+              3,
+              14
+            ],
+            "name": "Hilary Duff",
+            "screen_name": "HilaryDuff"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001891920778612700,
+      "id_str": "1001891920778612736",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 101,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu May 24 17:22:27 +0000 2018",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                3
+              ],
+              "text": "Ad"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/9…",
+              "expanded_url": "https://twitter.com/i/web/status/999702177806512129",
+              "indices": [
+                117,
+                140
+              ],
+              "url": "https://t.co/DbIC4wtfVg"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 771,
+        "favorited": false,
+        "geo": null,
+        "id": 999702177806512100,
+        "id_str": "999702177806512129",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 101,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#Ad Spring time = Happiness! I partnered with @ClaritinUSA for the 20 Minutes of Spring Project to inspire people t… https://t.co/DbIC4wtfVg",
+        "truncated": true,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Sun Oct 10 16:29:02 +0000 2010",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "mummy,singer,actress,lover,friend",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "smarturl.it/iBIBO?iqid=tw",
+                  "expanded_url": "http://smarturl.it/iBIBO?iqid=tw",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/GJUu43XPWi"
+                }
+              ]
+            }
+          },
+          "favourites_count": 3,
+          "follow_request_sent": false,
+          "followers_count": 5232895,
+          "following": false,
+          "friends_count": 209,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 200913899,
+          "id_str": "200913899",
+          "is_translation_enabled": true,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 10380,
+          "location": "Los Angeles, CA",
+          "name": "Hilary Duff",
+          "notifications": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/200913899/1434478879",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/581597409236631552/2yVfTT85_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/581597409236631552/2yVfTT85_normal.jpg",
+          "profile_link_color": "CC0033",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "E3E3E3",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "HilaryDuff",
+          "statuses_count": 4376,
+          "time_zone": null,
+          "translator_type": "none",
+          "url": "https://t.co/GJUu43XPWi",
+          "utc_offset": null,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "RT @HilaryDuff: #Ad Spring time = Happiness! I partnered with @ClaritinUSA for the 20 Minutes of Spring Project to inspire people to get ou…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 03 08:30:40 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 1229,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 2405,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 991958203180245000,
+        "id_str": "991958203180244992",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Jenna Brown",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/991959501132582912/bmT37uvE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/991959501132582912/bmT37uvE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JennaBr00601322",
+        "statuses_count": 19108,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:23:17 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001891813781893100,
+      "id_str": "1001891813781893122",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "Wow, sitting inside by the open window, working, feeling the nice cool breeze :) Hello spring time !",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 11 12:11:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Designer, front-end developer and hyphenate; I am a proud father, play guitar, enjoy music, sports, cycling and tennis.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jdmerriman-blog.tumblr.com",
+                "expanded_url": "http://jdmerriman-blog.tumblr.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Glr780yvRs"
+              }
+            ]
+          }
+        },
+        "favourites_count": 814,
+        "follow_request_sent": false,
+        "followers_count": 168,
+        "following": false,
+        "friends_count": 252,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 39238812,
+        "id_str": "39238812",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "New York City",
+        "name": "Jason Merriman",
+        "notifications": false,
+        "profile_background_color": "666666",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39238812/1466853191",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/582908386590613504/cNqn0_b5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/582908386590613504/cNqn0_b5_normal.jpg",
+        "profile_link_color": "CCCCCC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jdmerriman",
+        "statuses_count": 2322,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Glr780yvRs",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:22:51 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 835252426265481200,
+            "id_str": "835252426265481216",
+            "indices": [
+              3,
+              18
+            ],
+            "name": "Robert Macfarlane",
+            "screen_name": "RobGMacfarlane"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001891704016781300,
+      "id_str": "1001891704016781316",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 516,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed May 30 06:00:16 +0000 2018",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/1…",
+              "expanded_url": "https://twitter.com/i/web/status/1001704827473350656",
+              "indices": [
+                117,
+                140
+              ],
+              "url": "https://t.co/z7npYYARnp"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 1458,
+        "favorited": false,
+        "geo": null,
+        "id": 1001704827473350700,
+        "id_str": "1001704827473350656",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 516,
+        "retweeted": false,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "Word(s) of the day: \"spring tide\" - tide occurring around the time of a full or new moon, when there is the greates… https://t.co/z7npYYARnp",
+        "truncated": true,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Fri Feb 24 22:17:51 +0000 2017",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Books (The Lost Words, The Old Ways, Landmarks, The Wild Places) Films (Mountain) Essays (Guardian, New Yorker) New book Underland underway. Fellow, Cambridge.",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "emma.cam.ac.uk/contact/fellow…",
+                  "expanded_url": "https://www.emma.cam.ac.uk/contact/fellows/?id=172",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/Cnw92b2jeI"
+                }
+              ]
+            }
+          },
+          "favourites_count": 32796,
+          "follow_request_sent": false,
+          "followers_count": 107516,
+          "following": false,
+          "friends_count": 1909,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 835252426265481200,
+          "id_str": "835252426265481216",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en-gb",
+          "listed_count": 1234,
+          "location": "The Anthropocene",
+          "name": "Robert Macfarlane",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/835252426265481216/1488117681",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/835849899006640129/-qwlW-0a_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/835849899006640129/-qwlW-0a_normal.jpg",
+          "profile_link_color": "91D2FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "RobGMacfarlane",
+          "statuses_count": 9991,
+          "time_zone": null,
+          "translator_type": "none",
+          "url": "https://t.co/Cnw92b2jeI",
+          "utc_offset": null,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "RT @RobGMacfarlane: Word(s) of the day: \"spring tide\" - tide occurring around the time of a full or new moon, when there is the greatest di…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 06 04:22:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Inspired by #humanity #travel #books #poetry #art #cinema #SEAthtr #streetphotography #jazz #architecture #trees | 'Follow your inner moonlight.'－Allen Ginsberg",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 3474,
+        "follow_request_sent": false,
+        "followers_count": 812,
+        "following": false,
+        "friends_count": 1062,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 18661900,
+        "id_str": "18661900",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Seattle, WA",
+        "name": "Kim McNeill ••",
+        "notifications": false,
+        "profile_background_color": "FF6347",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18661900/1509581627",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996551432936374275/AxsAQOeA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996551432936374275/AxsAQOeA_normal.jpg",
+        "profile_link_color": "FF6347",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEE7E7",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "joiedevivre9",
+        "statuses_count": 10028,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:22:46 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "expanded_url": "https://twitter.com/i/web/status/1001891686467952642",
+            "indices": [
+              116,
+              139
+            ],
+            "url": "https://t.co/SXgsO6h0E8"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 3342868638,
+            "id_str": "3342868638",
+            "indices": [
+              0,
+              15
+            ],
+            "name": "Sean Guynes-Vishniac",
+            "screen_name": "guynesvishniac"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001891686467952600,
+      "id_str": "1001891686467952642",
+      "in_reply_to_screen_name": "guynesvishniac",
+      "in_reply_to_status_id": 1001891115296051200,
+      "in_reply_to_status_id_str": "1001891115296051204",
+      "in_reply_to_user_id": 3342868638,
+      "in_reply_to_user_id_str": "3342868638",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "@guynesvishniac And the articles are only due next spring, which means you can pretend you will have loads of time… https://t.co/SXgsO6h0E8",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 04 17:02:13 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Full-time nerd. Moonlights as Teaching Fellow in Digital Media Practice @WinchesterArt (@UniSouthampton), editor @critposthum, and project assistant @CAPDproj.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "frankenfiction.com",
+                "expanded_url": "http://frankenfiction.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/j6LSeyZPbC"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7207,
+        "follow_request_sent": false,
+        "followers_count": 1157,
+        "following": false,
+        "friends_count": 1056,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 428343557,
+        "id_str": "428343557",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 44,
+        "location": "Winchester, England",
+        "name": "Megen de Bruin-Molé",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/428343557/1402348389",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/923817385081044992/HL7EUMBb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/923817385081044992/HL7EUMBb_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MegenJM",
+        "statuses_count": 4223,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/j6LSeyZPbC",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:21:23 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 3158043838,
+            "id_str": "3158043838",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Wild.Here.",
+            "screen_name": "_WildHere"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001891334808989700,
+      "id_str": "1001891334808989697",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 1,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue May 29 13:14:09 +0000 2018",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/1…",
+              "expanded_url": "https://twitter.com/i/web/status/1001451632704372738",
+              "indices": [
+                117,
+                140
+              ],
+              "url": "https://t.co/2IEFXiqgGp"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 1001451632704372700,
+        "id_str": "1001451632704372738",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "It's that time of year - are you enjoying all the spring blooms?  🌺🌸💮My favourite are the Horse Chestnuts! 🌳 Read m… https://t.co/2IEFXiqgGp",
+        "truncated": true,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Sat Apr 11 23:49:13 +0000 2015",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "...nature in your neighbourhood",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "wildhere.ca",
+                  "expanded_url": "http://www.wildhere.ca",
+                  "indices": [
+                    0,
+                    22
+                  ],
+                  "url": "http://t.co/PXWH8T7ZVm"
+                }
+              ]
+            }
+          },
+          "favourites_count": 5731,
+          "follow_request_sent": false,
+          "followers_count": 294,
+          "following": false,
+          "friends_count": 208,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 3158043838,
+          "id_str": "3158043838",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 17,
+          "location": "",
+          "name": "Wild.Here.",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3158043838/1428945705",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/767721764952629248/FfyR5L5-_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/767721764952629248/FfyR5L5-_normal.jpg",
+          "profile_link_color": "FFCC4D",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "_WildHere",
+          "statuses_count": 1822,
+          "time_zone": null,
+          "translator_type": "none",
+          "url": "http://t.co/PXWH8T7ZVm",
+          "utc_offset": null,
+          "verified": false
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @_WildHere: It's that time of year - are you enjoying all the spring blooms?  🌺🌸💮My favourite are the Horse Chestnuts! 🌳 Read more here:…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 25 17:33:02 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 1311,
+        "follow_request_sent": false,
+        "followers_count": 10,
+        "following": false,
+        "friends_count": 36,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 845689998053724200,
+        "id_str": "845689998053724161",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "FloreandFaune",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FloreandFaune",
+        "statuses_count": 630,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:21:02 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "expanded_url": "https://twitter.com/i/web/status/1001891249106964480",
+            "indices": [
+              116,
+              139
+            ],
+            "url": "https://t.co/gVmn9GqLui"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 19198755,
+            "id_str": "19198755",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "Mark Segraves",
+            "screen_name": "SegravesNBC4"
+          },
+          {
+            "id": 52875381,
+            "id_str": "52875381",
+            "indices": [
+              14,
+              30
+            ],
+            "name": "Third Man Records",
+            "screen_name": "thirdmanrecords"
+          },
+          {
+            "id": 76449921,
+            "id_str": "76449921",
+            "indices": [
+              31,
+              47
+            ],
+            "name": "DC Public Schools",
+            "screen_name": "dcpublicschools"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001891249106964500,
+      "id_str": "1001891249106964480",
+      "in_reply_to_screen_name": "SegravesNBC4",
+      "in_reply_to_status_id": 1001877346306154500,
+      "in_reply_to_status_id_str": "1001877346306154498",
+      "in_reply_to_user_id": 19198755,
+      "in_reply_to_user_id_str": "19198755",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "@SegravesNBC4 @thirdmanrecords @dcpublicschools Do high schoolers even know who jack white is? Probably cooler for… https://t.co/gVmn9GqLui",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 07 20:12:09 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm feeling rough, I'm feeling raw, I'm in the prime of my life.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 1248,
+        "follow_request_sent": false,
+        "followers_count": 196,
+        "following": false,
+        "friends_count": 1024,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 312874928,
+        "id_str": "312874928",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Manhattan, NY",
+        "name": "Jackie O.",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/312874928/1379801415",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000489296020/056fe4019674faae7ff2f2be34f40ffa_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000489296020/056fe4019674faae7ff2f2be34f40ffa_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jbobrien",
+        "statuses_count": 6090,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:20:17 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 3247988765,
+            "id_str": "3247988765",
+            "indices": [
+              3,
+              17
+            ],
+            "name": "Brandon T. Todd",
+            "screen_name": "CMBrandonTodd"
+          },
+          {
+            "id": 485848777,
+            "id_str": "485848777",
+            "indices": [
+              43,
+              57
+            ],
+            "name": "Mundo Verde PCS",
+            "screen_name": "MundoVerdePCS"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001891060061261800,
+      "id_str": "1001891060061261824",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 4,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed May 30 17:31:17 +0000 2018",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/1…",
+              "expanded_url": "https://twitter.com/i/web/status/1001878729159737346",
+              "indices": [
+                117,
+                140
+              ],
+              "url": "https://t.co/rUtnAHQsDq"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id": 485848777,
+              "id_str": "485848777",
+              "indices": [
+                24,
+                38
+              ],
+              "name": "Mundo Verde PCS",
+              "screen_name": "MundoVerdePCS"
+            }
+          ]
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "geo": null,
+        "id": 1001878729159737300,
+        "id_str": "1001878729159737346",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": {
+          "attributes": {},
+          "bounding_box": {
+            "coordinates": [
+              [
+                [
+                  -77.119401,
+                  38.801826
+                ],
+                [
+                  -76.909396,
+                  38.801826
+                ],
+                [
+                  -76.909396,
+                  38.9953797
+                ],
+                [
+                  -77.119401,
+                  38.9953797
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "contained_within": [],
+          "country": "United States",
+          "country_code": "US",
+          "full_name": "Washington, DC",
+          "id": "01fbe706f872cb32",
+          "name": "Washington",
+          "place_type": "city",
+          "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Great time today at the @MundoVerdePCS Spring Expo! 3rd grade students worked hard on researching water quality pol… https://t.co/rUtnAHQsDq",
+        "truncated": true,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Tue May 12 14:56:09 +0000 2015",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "This account is run by the Office of D.C. Councilmember @brandonttodd (D-Ward 4).",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "brandontoddward4.com",
+                  "expanded_url": "http://www.brandontoddward4.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/Z9eoSMStuA"
+                }
+              ]
+            }
+          },
+          "favourites_count": 4955,
+          "follow_request_sent": false,
+          "followers_count": 5012,
+          "following": false,
+          "friends_count": 490,
+          "geo_enabled": true,
+          "has_extended_profile": true,
+          "id": 3247988765,
+          "id_str": "3247988765",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 119,
+          "location": "Washington, DC",
+          "name": "Brandon T. Todd",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3247988765/1517004185",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/988837763813400576/Kk2xv0aO_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/988837763813400576/Kk2xv0aO_normal.jpg",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "CMBrandonTodd",
+          "statuses_count": 5889,
+          "time_zone": null,
+          "translator_type": "none",
+          "url": "https://t.co/Z9eoSMStuA",
+          "utc_offset": null,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "RT @CMBrandonTodd: Great time today at the @MundoVerdePCS Spring Expo! 3rd grade students worked hard on researching water quality policy &amp;…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 01 01:18:15 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Councilmember to the best 82,000 District residents @CMBrandonTodd. Son, Grandson, and, Brother. Chair Committee on Government Operations. #Ward4Proud",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brandontoddward4.com",
+                "expanded_url": "http://brandontoddward4.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/ReBnLlCY0o"
+              }
+            ]
+          }
+        },
+        "favourites_count": 21827,
+        "follow_request_sent": false,
+        "followers_count": 4916,
+        "following": false,
+        "friends_count": 895,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 245587669,
+        "id_str": "245587669",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 126,
+        "location": "Washington, DC",
+        "name": "Brandon T. Todd",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245587669/1522936706",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999325984875663360/Ki1S0yq7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999325984875663360/Ki1S0yq7_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brandonttodd",
+        "statuses_count": 12765,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ReBnLlCY0o",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:18:48 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "expanded_url": "https://twitter.com/i/web/status/1001890687674077186",
+            "indices": [
+              116,
+              139
+            ],
+            "url": "https://t.co/LGaATnPJ0p"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001890687674077200,
+      "id_str": "1001890687674077186",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "some time s 1 find one self drowning trys get up finding one is trying to getup in middle of BIG horn RIVER SPRING… https://t.co/LGaATnPJ0p",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 15 02:20:42 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 3345,
+        "follow_request_sent": false,
+        "followers_count": 5401,
+        "following": false,
+        "friends_count": 5420,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 742904635019558900,
+        "id_str": "742904635019558913",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "United States",
+        "name": "HP",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/742904635019558913/1498668889",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997888811165073408/5YBhZkSd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997888811165073408/5YBhZkSd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HDPSGTUSMC",
+        "statuses_count": 18459,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:18:00 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "expanded_url": "https://twitter.com/i/web/status/1001890483004723201",
+            "indices": [
+              117,
+              140
+            ],
+            "url": "https://t.co/pW30kTJgxF"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 289888727,
+            "id_str": "289888727",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "Mardy Fish",
+            "screen_name": "MardyFish"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001890483004723200,
+      "id_str": "1001890483004723201",
+      "in_reply_to_screen_name": "MardyFish",
+      "in_reply_to_status_id": 1001887117306286100,
+      "in_reply_to_status_id_str": "1001887117306286081",
+      "in_reply_to_user_id": 289888727,
+      "in_reply_to_user_id_str": "289888727",
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "@MardyFish Just started playing Pickleball this spring. Thought my tennis background would make it easy, but differ… https://t.co/pW30kTJgxF",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 18 15:32:38 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Financial Advisor. Father of 3 great kids, married to Mary Beth Marsden. Baritone, Some of the Parts a cappella group; Bass player, Ruxtones; Southsides tennis",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 1337,
+        "follow_request_sent": false,
+        "followers_count": 249,
+        "following": false,
+        "friends_count": 1243,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 467531979,
+        "id_str": "467531979",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Baltimore",
+        "name": "Mark McGrath",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1765391109/Mary_Beth_and_Cigar_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765391109/Mary_Beth_and_Cigar_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "McGriff016",
+        "statuses_count": 1848,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:17:34 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "expanded_url": "https://twitter.com/i/web/status/1001890376725159936",
+            "indices": [
+              116,
+              139
+            ],
+            "url": "https://t.co/xVXVdHc63a"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001890376725160000,
+      "id_str": "1001890376725159936",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "some time s 1 find one self drowning trys get up finding one is trying to getup in middle of BIG horn RIVER SPRING… https://t.co/xVXVdHc63a",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 10 23:05:11 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 40,
+        "follow_request_sent": false,
+        "followers_count": 748,
+        "following": false,
+        "friends_count": 1197,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 785617198932893700,
+        "id_str": "785617198932893696",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Dixon Patterson",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999033195596210176/2zjzNuXc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999033195596210176/2zjzNuXc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hdpusmcSGT",
+        "statuses_count": 206,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:17:15 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "expanded_url": "https://twitter.com/i/web/status/1001890296177684483",
+            "indices": [
+              116,
+              139
+            ],
+            "url": "https://t.co/v7k9g4Wxqe"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001890296177684500,
+      "id_str": "1001890296177684483",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "It's finally heating up! While it may seem that we skipped entirely over Spring, it's time to start thinking about… https://t.co/v7k9g4Wxqe",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 05 00:15:44 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Health & #fitness blogger, #food photographer, certified strength coach, mama to two & foodie. Get 30 energy boosting snacks: https://t.co/JLEf2ziXEg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2rbpHCz",
+                "expanded_url": "http://bit.ly/2rbpHCz",
+                "indices": [
+                  127,
+                  150
+                ],
+                "url": "https://t.co/JLEf2ziXEg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fitasamamabear.com",
+                "expanded_url": "http://www.fitasamamabear.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Xarml4jVTF"
+              }
+            ]
+          }
+        },
+        "favourites_count": 5776,
+        "follow_request_sent": false,
+        "followers_count": 661,
+        "following": false,
+        "friends_count": 413,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 805566288236003300,
+        "id_str": "805566288236003329",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "London, Ontario",
+        "name": "Fit As A Mama Bear",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/805566288236003329/1518091980",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996380467753517056/MotDPSa7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996380467753517056/MotDPSa7_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "FitasaMamaBear",
+        "statuses_count": 11050,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Xarml4jVTF",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:16:50 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 870155151197089800,
+            "id_str": "870155151197089792",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Anin",
+            "screen_name": "starbyyul"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001890193144721400,
+      "id_str": "1001890193144721409",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 298,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon May 28 10:04:28 +0000 2018",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/1…",
+              "expanded_url": "https://twitter.com/i/web/status/1001041509465051136",
+              "indices": [
+                117,
+                140
+              ],
+              "url": "https://t.co/UdoKswkHUg"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 504,
+        "favorited": false,
+        "geo": null,
+        "id": 1001041509465051100,
+        "id_str": "1001041509465051136",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 298,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Sinxity named us Innercircle on spring. Sinxity gave us hope during rough times he stayed on WINNER side throughout… https://t.co/UdoKswkHUg",
+        "truncated": true,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Thu Jun 01 05:48:49 +0000 2017",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "Just love ❤️ it's our fate to be tangled together.Mainly WINNER 💕✌️ but  i will tweet i want to tweet even other artist 💕🌸",
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "favourites_count": 18397,
+          "follow_request_sent": false,
+          "followers_count": 357,
+          "following": false,
+          "friends_count": 488,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 870155151197089800,
+          "id_str": "870155151197089792",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 0,
+          "location": "",
+          "name": "Anin",
+          "notifications": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/870155151197089792/1520826877",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/988266244968136704/1oPI0hfi_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/988266244968136704/1oPI0hfi_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "starbyyul",
+          "statuses_count": 4259,
+          "time_zone": null,
+          "translator_type": "none",
+          "url": null,
+          "utc_offset": null,
+          "verified": false
+        }
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+      "text": "RT @starbyyul: Sinxity named us Innercircle on spring. Sinxity gave us hope during rough times he stayed on WINNER side throughout &amp; He lef…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 29 16:46:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Da nação brasiliense Maranhon",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 3366,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 451,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 160972201,
+        "id_str": "160972201",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 1,
+        "location": "Sao Luis - MA",
+        "name": "Kamis Guimarães",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/160972201/1425742897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574233104363053056/PgfGPEVQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574233104363053056/PgfGPEVQ_normal.jpeg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kamisblackjack",
+        "statuses_count": 6147,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:16:38 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 930092485681995800,
+            "id_str": "930092485681995777",
+            "indices": [
+              3,
+              17
+            ],
+            "name": "花요일",
+            "screen_name": "jeongmin10424"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001890142980747300,
+      "id_str": "1001890142980747265",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 93,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed May 30 15:28:23 +0000 2018",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/1…",
+              "expanded_url": "https://twitter.com/i/web/status/1001847799397269505",
+              "indices": [
+                117,
+                140
+              ],
+              "url": "https://t.co/NoN3nCCx32"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 39,
+        "favorited": false,
+        "geo": null,
+        "id": 1001847799397269500,
+        "id_str": "1001847799397269505",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 93,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "This is the middle school I went to!😊 It was spring and I used to go to school early and take pictures.  I really m… https://t.co/NoN3nCCx32",
+        "truncated": true,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Mon Nov 13 15:18:23 +0000 2017",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "Hi! I'm korean EXO-L. | \n\nTo my emperor",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "twitter.com/jeongmin10424/…",
+                  "expanded_url": "https://twitter.com/jeongmin10424/status/1000309797147721731?s=19",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/zbHQQUBo5q"
+                }
+              ]
+            }
+          },
+          "favourites_count": 369,
+          "follow_request_sent": false,
+          "followers_count": 1067,
+          "following": false,
+          "friends_count": 926,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 930092485681995800,
+          "id_str": "930092485681995777",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "ko",
+          "listed_count": 0,
+          "location": "South korea ",
+          "name": "花요일",
+          "notifications": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/930092485681995777/1527259493",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1001112501591785472/kb1MdS8n_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001112501591785472/kb1MdS8n_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "jeongmin10424",
+          "statuses_count": 347,
+          "time_zone": null,
+          "translator_type": "none",
+          "url": "https://t.co/zbHQQUBo5q",
+          "utc_offset": null,
+          "verified": false
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "RT @jeongmin10424: This is the middle school I went to!😊 It was spring and I used to go to school early and take pictures.  I really miss t…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 23 08:37:41 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "*•.¸『엑소 ; 스트레이 키즈 』¸.•* 〈fan account 〉 [+60 ; +81 ] 「nct acc @berrysicheng 」",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "curiouscat.me/berrysicheng",
+                "expanded_url": "http://curiouscat.me/berrysicheng",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3Sj0qmKqNK"
+              }
+            ]
+          }
+        },
+        "favourites_count": 5775,
+        "follow_request_sent": false,
+        "followers_count": 1760,
+        "following": false,
+        "friends_count": 274,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 779238294018072600,
+        "id_str": "779238294018072576",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "@bbhunini ♡",
+        "name": "мσηα 📌unfollow spree",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/779238294018072576/1527652501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1001673302111375362/Q5cLKKGx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001673302111375362/Q5cLKKGx_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "exochewinggum",
+        "statuses_count": 79822,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3Sj0qmKqNK",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 30 18:15:18 +0000 2018",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "expanded_url": "https://twitter.com/i/web/status/1001889806559916032",
+            "indices": [
+              117,
+              140
+            ],
+            "url": "https://t.co/QA4hYaSFZs"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 1001889806559916000,
+      "id_str": "1001889806559916032",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "text": "Summer is on its way so if you haven’t had a spring clean yet it is time to get it done! Here are our hints and tip… https://t.co/QA4hYaSFZs",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 11 17:01:04 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Est. for over 100 years we provide a quality tailored home removals, self storage & shredding service http://t.co/anN8hXU5CC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yeates.co.uk",
+                "expanded_url": "http://www.yeates.co.uk/",
+                "indices": [
+                  102,
+                  124
+                ],
+                "url": "http://t.co/anN8hXU5CC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yeates.co.uk",
+                "expanded_url": "http://www.yeates.co.uk/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/mIrgdCCCgN"
+              }
+            ]
+          }
+        },
+        "favourites_count": 65,
+        "follow_request_sent": false,
+        "followers_count": 71,
+        "following": false,
+        "friends_count": 47,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 551231607,
+        "id_str": "551231607",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Clevedon, UK",
+        "name": "Yeates Removals",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/551231607/1368206285",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2095127748/yeates-logo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2095127748/yeates-logo_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yeatesremovals",
+        "statuses_count": 157,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/mIrgdCCCgN",
+        "utc_offset": null,
+        "verified": false
+      }
+    }
+  ]
+}
