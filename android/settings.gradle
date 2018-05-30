@@ -1,0 +1,3 @@
+rootProject.name = 'TweetsForHumanity'
+
+include ':app'
