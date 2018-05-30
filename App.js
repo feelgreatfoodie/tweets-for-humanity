@@ -3,6 +3,7 @@ import ButtonPlay from './src/components/button'
 import {
   Alert,
   Button,
+  Image,
   Platform,
   StyleSheet,
   Text,
@@ -45,6 +46,9 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <View>
+          {/* <Text style={styles.welcome}></Text> */}
+          <Image style={styles.image} source={require('./src/t4h-04.png')} />
+
           <Text style={styles.welcome}>
             Welcome to Tweets For Humanity!
           </Text>
@@ -77,11 +81,17 @@ const styles = StyleSheet.create({
   welcome: {
     fontSize: 20,
     textAlign: 'center',
-    marginTop: 200
+    marginTop: 10
   },
   instructions: {
     textAlign: 'center',
     color: '#333333',
     marginBottom: 5
+  },
+  image: {
+    height:130,
+    width: 130,
+    marginTop: 300,
+    justifyContent: 'center'
   }
 })
